@@ -1,0 +1,33 @@
+
+
+.navbar {
+    background-color: #FA056F !important
+}
+
+.bg-primary {
+    background-color: #490E61 !important;
+}
+.text-white {
+    color: #32FA05 !important;
+}
+.text-center {
+    color: #32FA05 !important;
+}
+
+.masthead-avatar {
+    border-radius: 50%;
+    height: 260px;
+    width: auto;
+}
+
+.footer {
+    background-color: #490E61;
+}
+
+.copyright {
+    background-color: #FA056F;
+}
+
+.row {
+    
+}
