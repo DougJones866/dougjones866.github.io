@@ -1,7 +1,8 @@
 
 
 .navbar {
-    background-color: #FA056F !important
+    background-color: #FA056F !important;
+    border-bottom-style: solid;
 }
 
 .bg-primary {
@@ -22,10 +23,14 @@
 
 .footer {
     background-color: #490E61;
+    
 }
 
 .copyright {
     background-color: #FA056F;
+    border-top-style: solid;
+    border-color: black;
+    
 }
 
 .row {
