@@ -50,6 +50,19 @@
     
 }
 
-.row {
-    
+.modal-content {
+    background-color: #490E61 !important;  
+}
+
+.portfolio-item {
+    border-style: solid;
+    border-color: #FA056F;
+}
+
+.text-secondary {
+    color: #32FA05 !important; 
+}
+
+.contact-me {
+    color: #490E61 !important;
 }
