@@ -7,6 +7,7 @@
 
 .bg-primary {
     background-color: #490E61 !important;
+    text-align: center!important;
 }
 .text-white {
     color: #32FA05 !important;
@@ -18,7 +19,23 @@
 .masthead-avatar {
     border-radius: 50%;
     height: 260px;
-    width: auto;
+    width: 200px;
+    
+    
+}
+.lead {
+    padding-top: 4em !important;
+    text-align: center;
+    font-size: 1.5rem;
+    font-weight: 500;
+}   
+.profile {
+    
+    padding-left: 25px;
+}
+
+.masthead-heading {
+    text-align: left !important;
 }
 
 .footer {
