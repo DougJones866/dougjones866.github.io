@@ -1,19 +1,19 @@
 
 
 .navbar {
-    background-color: #FA056F !important;
+    background-color: #EF233C !important;
     border-bottom-style: solid;
 }
 
 .bg-primary {
-    background-color: #490E61 !important;
+    background-color: #2B2D42 !important;
     text-align: center!important;
 }
 .text-white {
-    color: #32FA05 !important;
+    color: #EDF2F4 !important;
 }
 .text-center {
-    color: #32FA05 !important;
+    color: #EDF2F4 !important;
 }
 
 .masthead-avatar {
@@ -39,30 +39,30 @@
 }
 
 .footer {
-    background-color: #490E61;
+    background-color: #2B2D42;
     
 }
 
 .copyright {
-    background-color: #FA056F;
+    background-color: #EF233C;
     border-top-style: solid;
     border-color: black;
     
 }
 
 .modal-content {
-    background-color: #490E61 !important;  
+    background-color: #2B2D42 !important;  
 }
 
 .portfolio-item {
     border-style: solid;
-    border-color: #FA056F;
+    border-color: #EF233C;
 }
 
 .text-secondary {
-    color: #32FA05 !important; 
+    color: #EDF2F4 !important; 
 }
 
 .contact-me {
-    color: #490E61 !important;
+    color: #2B2D42 !important;
 }
